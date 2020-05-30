@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юлия Зиатдинова](https://up.htmlacademy.ru/javascript/20/user/911871).
-* Наставник: `Неизвестно`.
+* Наставник: Иван Кривонос.
 
 ---
 
